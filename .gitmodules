@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/seyedi/seyedi.github.io.git
+	branch = master
