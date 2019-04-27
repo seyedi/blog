@@ -1,0 +1,16 @@
+{{ define "main" }}
+<article class="post">
+  <div class="main-container">
+    <h1 class="post-title">{{ .Title }}</h1>
+    <time class="post-date" datetime="{{.Params.mydate}}">{{.Params.mydate}}</time>
+
+    {{ .Content }}
+
+    <div class="comments">
+      {{ if .Site.DisqusShortname -}}
+      {{ template "_internal/disqus.html" . }}
+      {{- end }}
+    </div>
+  </div>
+</article>
+{{- end }}

@@ -1,0 +1,12 @@
+baseURL = "seyedi.github.io"
+languageCode = "fa-IR"
+title = "بلاگ مجتبی سیدی"
+disqusShortname = "mojtabaseyedi"
+googleAnalytics = ""
+theme = "moji"
+pygmentsCodefences = true
+pygmentsStyle = "monokailight"
+[params]
+  author = "مجتبی سیدی"
+  description = "فرصتی برای من که بتونم غیر از سی‌اس‌اس هم چیزی بگم!"
+  layoutDirection = "rtl"
