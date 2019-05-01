@@ -1,4 +1,4 @@
-baseURL = "https://seyedi.github.io/"
+baseURL = "https://blog.mojtabaseyedi.com/"
 languageCode = "fa-IR"
 title = "مجتبی سیدی"
 disqusShortname = "mojtabaseyedi"
@@ -8,5 +8,4 @@ pygmentsCodefences = true
 pygmentsStyle = "monokailight"
 [params]
   author = "مجتبی سیدی"
-  description = "!فرصتی برای من که بتونم غیر از سی‌اس‌اس هم چیزی بگم"
   layoutDirection = "rtl"
