@@ -1,0 +1,6 @@
+hugo server
+hugo
+git add
+cd publick
+git add
+

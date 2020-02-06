@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-<html lang="{{.Site.LanguageCode}}" dir="{{ .Site.Params.layoutDirection }}">
+<html lang="{{.Site.LanguageCode}}" dir="{{ $.Params.layoutDirection }}">
     {{- partial "head.html" . -}}
-    <body>
+    <body class="{{ .Type }}">
         {{- partial "header.html" . -}}
         {{- block "main" . }}{{- end }}
         {{- partial "footer.html" . -}}

@@ -1,11 +1,15 @@
 baseURL = "https://seyedi.github.io/"
-languageCode = "fa-IR"
-title = "مجتبی سیدی"
-disqusShortname = "mojtabaseyedi"
+languageCode = "en"
+title = "Mojtaba Seyedi"
+#disqusShortname = "mojtabaseyedi"
 googleAnalytics = ""
 theme = "moji"
 pygmentsCodefences = true
 pygmentsStyle = "monokailight"
 [params]
   author = "مجتبی سیدی"
-  layoutDirection = "rtl"
+  [params.socials]
+    twitter = "https://twitter.com/mojtabaseyedi"
+    codepen = "https://codepen.io/seyedi"
+    linkedin = "https://ir.linkedin.com/pub/mojtaba-seyedi/61/157/1a"
+    github = "https://github.com/seyedi"
