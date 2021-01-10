@@ -1,6 +1,12 @@
-hugo server
-hugo
-git add
-cd publick
-git add
+hugo server -D
+hugo server             // to test the none draft content or serving the project
 
+hugo                    // to build the content to the public folder
+cd public
+git add, commit,
+git push origin master  // will push to seyedi.github.io
+
+git add, commit         //
+git push                // push to blog repositoy
+
+seyedi.gihtub.io is fake you need to put the public file on mojtabaseyedi.com
