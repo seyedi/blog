@@ -10,3 +10,12 @@ git add, commit         //
 git push                // push to blog repositoy
 
 seyedi.gihtub.io is fake you need to put the public file on mojtabaseyedi.com
+
+
+
+
+
+
+add new content:
+
+hugo new posts/learning-english.md
