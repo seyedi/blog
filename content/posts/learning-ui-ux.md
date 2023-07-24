@@ -68,6 +68,9 @@ layoutDirection: "rtl"
 - [Behance](https://www.behance.net/)
 - [Minimal Gallery](https://minimal.gallery/)
 
+## چالش و تمرین
+- [UI Coach](https://www.uicoach.io/)
+
 ## شبکه‌های اجتماعی
 حتما از همین اول توی این دو شبکه اجتماعی فعال باشین و آدم‌هایی که توی این کار خبره هستن رو دنبال کنین و با بقیه طراحان ارتباط بگیرین. من خودم از اینکه از این دو شبکه (مخصوصا توییتر) فقط استفاده کاری می‌کنم خیلی خوبی دیدم و این موضوع بی‌نهایت به من کمک کرده.
 
@@ -79,7 +82,7 @@ layoutDirection: "rtl"
 ## دست‌چین
 توی همین مرور کمی که داشتم بین این لینک‌ها بنظرم برای شروع سراغ این سه مورد برید و خودتون کم کم مسیرتون رو پیدا می‌کنید.
 
-- [The Ultimate UI Design Roadmap (PDF)](https://files.gumroad.com/attachments/9651873646214/3866dd31d8b94f0eb5a178a484df50ed/original/The%20Ultimate%20UI%20Design%20Roadmap.pdf?response-content-disposition=attachment&cache_key=92be&verify=1653136026-ximKBBKcK4ozqvARhRiVr4vuq8rP1f8JfpJNcwxoysI%3D)
+- [The Ultimate UI Design Roadmap (PDF)](/download/the-ultimate-ui-design-roadmap.pdf)
 - [The self-taught UI/UX designer roadmap](https://bootcamp.uxdesign.cc/the-self-taught-ui-ux-designer-roadmap-in-2021-aa0f5b62cecb)
 - یکی از دوره‌های یودمی که بالا معرفی شد.
 
